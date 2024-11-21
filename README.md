@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sali-max&label=Profile%20views&color=0e75b6&style=plastic" alt="sali-max" /> </p>
 
-- 🔭 I’m currently working on [SSHOX](Not Avilable)
+- 🔭 I’m currently working on [FOX-SSH]
 
 - 🌱 I’m currently learning **MCSA**
 
