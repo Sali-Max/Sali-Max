@@ -1,30 +1,57 @@
-<h1 align="center">Hi 👋, I'm Sali</h1>
-<h3 align="center">I am a Swiss Army knife</h3>
+<h1 align="center">🚀 Welcome to Sali-Max's Universe! 🚀</h1>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sali-max&label=Profile%20views&color=0e75b6&style=plastic" alt="sali-max" /> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+  <b> Passionate Developer | Linux Enthusiast | Cybersecurity Explorer </b>
+</p>  
 
-- 🔭 I’m currently working on [FOX-SSH]
+---
 
-- 🌱 I’m currently learning **MCSA**
+## 🌟 About Me  
 
-- 🤝 I’m looking for help with [RMS](https://github.com/Sali-Max/RMS)
+💡 **Who am I?**  
+I'm **Sali**, a **dedicated developer** with a deep passion for **Linux, cybersecurity, and system optimization**.  
+I enjoy **tweaking, building, and optimizing** systems to push their limits.  
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sali-Max/](https://github.com/Sali-Max/)
+🔹 **Favorite Tools:** GCC, QEMU, Pacstrap <br>
+🔹 **Current Projects:** Kernel development, Arch Linux customization, security research 
 
-- 📫 How to reach me **instagram: aliqsa25**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ali-sardashti-06781b2b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali sardashti" height="30" width="40" /></a>
-<a href="https://instagram.com/aliqsa25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aliqsa25" height="30" width="40" /></a>
+## 🛠️ My Skills  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,c,cpp,bash,python,git,github,vim" width="500px">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>  </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+🖥 **Operating Systems & Linux Development**  
+🔹 Kernel customization, driver development, and low-level optimizations.  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sali-max&show_icons=true&theme=dark&locale=en&layout=compact" alt="sali-max" /></p>
+🔐 **Cybersecurity & Ethical Hacking**  
+🔹 Exploring vulnerabilities, penetration testing, and secure coding.  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sali-max&show_icons=true&locale=en" alt="sali-max" /></p>
+💻 **Programming & Application Development**  
+🔹 Experienced in **C, C++, Bash, and Python** with a focus on **application programming, scripting, and automation**.  
 
+---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sali-Max&show_icons=true&theme=radical" style="width: 450px;">
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sali-Max&layout=compact&theme=radical" style="width: 450px;">
+</p>
+
+---
+
+## 🚀 How to Reach Me  
+
+<p align="center">
+  <a href="https://github.com/Sali-Max">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+⭐ **If you like my work, consider giving a star to my projects!** ⭐  
+💻 **Let's build something amazing together!** 💻  
