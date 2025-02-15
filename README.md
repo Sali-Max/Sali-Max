@@ -13,15 +13,14 @@
 I'm **Sali**, a **dedicated developer** with a deep passion for **Linux, cybersecurity, and system optimization**.  
 I enjoy **tweaking, building, and optimizing** systems to push their limits.  
 
-🔹 **Favorite Tools:** GCC, QEMU, Pacstrap <br>
-🔹 **Current Projects:** Kernel development, Arch Linux customization, security research 
+🔹 **Favorite Tools:** GCC, QEMU, Pacstrap
 
 ---
 
 ## 🛠️ My Skills  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,c,cpp,bash,python,git,github,vim" width="500px">
+  <img src="https://skillicons.dev/icons?i=linux,c,cpp,bash,git" width="500px">
 </p>
 
 🖥 **Operating Systems & Linux Development**  
