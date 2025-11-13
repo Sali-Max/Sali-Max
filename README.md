@@ -30,7 +30,7 @@ I enjoy **tweaking, building, and optimizing** systems to push their limits.
 🔹 Exploring vulnerabilities, penetration testing, and secure coding.  
 
 💻 **Programming & Application Development**  
-🔹 Experienced in **C, C++, Bash, and Python** with a focus on **application programming, scripting, and automation**.  
+🔹 Experienced in **C, C++, Bash ** with a focus on **application programming, scripting, and automation**.  
 
 ---
 
